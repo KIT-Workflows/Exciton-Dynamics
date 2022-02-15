@@ -3,7 +3,7 @@
 To simulate properties of OLED devices we apply a multiscale workflow to translate molecular properties to the device level and analyze the impact of micoscopic properties on device performance. The resulting time-dependent and spatially resolved trajectories of charge carrier and exciton dynamics can be used to systematically identify, analyze and eliminate performance bottlenecks in OLED devices. 
 
 
-<img src="Fig1.png" alt="drawing" width="500"/>
+<img src="Fig1.png" alt="drawing" width="400"/>
 
 **Fig. 1** _Simplified multiscale OLED workflow for a single material device._
 
